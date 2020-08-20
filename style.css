@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    justify-content: center;
+    align-items:center; 
+}
+body{
+     background: #e1e2e4;
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+}
+input[type="number"]
+{
+    padding:10px;
+    font-weight:bold;
+    font-family: sans-serif;
+    border: none;
+    width:200px;
+    
+}
+select{
+    width: 200px;
+    height:40px;
+    font-family: sans-serif;
+    cursor:pointer;
+
+}
+.currency{
+    justify-content: center;
+    text-align: center;
+    margin-top: 57px;
+}
+.from-name-curr{
+    min-height: 50px;
+}
+.from-name-curr1{
+    min-height: 70px;
+}
+.submit-btn{
+    min-height: 70px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.reset-btn{
+    min-height: 50px;
+    justify-content: center;
+    text-align: center;
+    
+}
+button{
+    background:black;
+    color:white;
+    height:40px;
+    width:70px;
+    font-weight:bold;
+    border:none;
+    cursor:pointer;
+}
+
+
+
+
+

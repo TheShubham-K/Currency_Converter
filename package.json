@@ -1,0 +1,19 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "It is a simple Currency converter",
+  "main": "index.html",
+  "scripts": {
+    "test": "script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharmik79/currency-converter.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dharmik79/currency-converter/issues"
+  },
+  "homepage": "https://github.com/Dharmik79/currency-converter#readme"
+}
